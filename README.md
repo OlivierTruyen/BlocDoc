@@ -1,0 +1,2 @@
+# BlocDoc
+Projet basique Django
